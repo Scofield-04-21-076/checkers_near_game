@@ -1,0 +1,1 @@
+# checkers_near_game
